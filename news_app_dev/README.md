@@ -1,16 +1,10 @@
 # news_app_dev
 
-A new Flutter application.
+Flutter project to fetch Live News Data using an API
 
-## Getting Started
+## Working
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Used the NewsApi.org to fetch news updates
+* Used the http method to get live news updates inside this app.
+* Categorised the news into different categories such as Business, Entertainment etc
+* Used OOP ideas Abstractions, Inheritance, Polymorphism, Encapsulation to make the code more readable and error free.
